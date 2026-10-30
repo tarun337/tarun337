@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-tarun337.github.io-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://tarun337.github.io/)
+## 🌐 [Visit my portfolio → tarun337.github.io](https://tarun337.github.io/)
 
 # Hi, I'm Tarun Meka 👋
 
@@ -8,8 +8,7 @@
 
 I engineer **AI agents, agentic workflows and GenAI pipelines** that make software delivery faster.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--meka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-meka)
-[![Email](https://img.shields.io/badge/Email-tarunmeka31%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunmeka31@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/tarun-meka) · ✉️ [tarunmeka31@gmail.com](mailto:tarunmeka31@gmail.com)
 
 </div>
 

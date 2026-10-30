@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🌐 [Visit my portfolio → tarun337.github.io](https://tarun337.github.io/)
+🌐 **[tarun337.github.io](https://tarun337.github.io/)** · my portfolio
 
 # Hi, I'm Tarun Meka 👋
 

@@ -1,14 +1,18 @@
 <div align="center">
 
-🌐 **[tarun337.github.io](https://tarun337.github.io/)** · my portfolio
-
 # Hi, I'm Tarun Meka 👋
 
 **Software Development Engineer @ Amadeus** · Bengaluru, India
 
 I engineer **AI agents, agentic workflows and GenAI pipelines** that make software delivery faster.
 
-💼 [LinkedIn](https://www.linkedin.com/in/tarun-meka) · ✉️ [tarunmeka31@gmail.com](mailto:tarunmeka31@gmail.com)
+🌐 **[Portfolio](https://tarun337.github.io/)** &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/tarun-meka) &nbsp;·&nbsp; ✉️ [tarunmeka31@gmail.com](mailto:tarunmeka31@gmail.com)
+
+<a href="https://tarun337.github.io/">
+  <img src="assets/portfolio-preview.jpg" alt="Preview of my portfolio website, tarun337.github.io" width="720">
+</a>
+
+<sub>👆 Click the preview to explore my portfolio</sub>
 
 </div>
 
@@ -29,10 +33,12 @@ I engineer **AI agents, agentic workflows and GenAI pipelines** that make softwa
 |---------|------------|
 | [reelbite](https://github.com/tarun337/reelbite) | Save Instagram food reels and auto-group them by dish. Kotlin + Jetpack Compose |
 | [spendly](https://github.com/tarun337/spendly) | A dark-mode Android expense tracker with bill splitting and settle-up. Kotlin + Jetpack Compose |
-| [tarun337.github.io](https://github.com/tarun337/tarun337.github.io) | This portfolio, built with Angular and deployed to GitHub Pages |
+| [tarun337.github.io](https://github.com/tarun337/tarun337.github.io) | Source code of my portfolio. Angular, deployed to GitHub Pages |
+
+---
 
 <div align="center">
 
-✨ **[See the full portfolio →](https://tarun337.github.io/)**
+✨ Want the full story (experience, projects and achievements)? **[Visit tarun337.github.io →](https://tarun337.github.io/)**
 
 </div>

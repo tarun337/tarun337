@@ -1,12 +1,13 @@
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-tarun337.github.io-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://tarun337.github.io/)
+
 # Hi, I'm Tarun Meka 👋
 
 **Software Development Engineer @ Amadeus** · Bengaluru, India
 
 I engineer **AI agents, agentic workflows and GenAI pipelines** that make software delivery faster.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tarun337.github.io-8b5cf6?style=for-the-badge&logo=githubpages&logoColor=white)](https://tarun337.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tarun--meka-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-meka)
 [![Email](https://img.shields.io/badge/Email-tarunmeka31%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunmeka31@gmail.com)
 
